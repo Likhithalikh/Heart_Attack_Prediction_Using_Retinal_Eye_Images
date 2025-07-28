@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Mild', 'Moderate', 'Severe']
+
+roboflow:
+  workspace: rcc-institute-of-information-technology-fjmoa
+  project: detect-heart-attack
+  version: 1
+  license: MIT
+  url: https://universe.roboflow.com/rcc-institute-of-information-technology-fjmoa/detect-heart-attack/dataset/1

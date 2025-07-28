@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Heart_Attack_Prediction_Using_Retinal_Eye" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Heart_Attack_Prediction" project-jdk-type="Python SDK" />
+</project>
